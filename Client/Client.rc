@@ -1,0 +1,1078 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\Client.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.chs\\afxres.rc""          // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\Client.ico"
+IDI_WEBCAM              ICON    DISCARDABLE     "res\\webcam.ico"
+IDI_CMDSHELL            ICON    DISCARDABLE     "res\\cmdshell.ico"
+IDI_KEYBOARD            ICON    DISCARDABLE     "res\\keyboard.ico"
+IDI_SYSTEM              ICON    DISCARDABLE     "res\\system.ico"
+IDI_AUDIO               ICON    DISCARDABLE     "res\\audio.ico"
+IDI_SHIPIN              ICON    DISCARDABLE     "res\\Cam.ico"
+IDI_USER                ICON    DISCARDABLE     "res\\NoCam.ico"
+IDI_ICOFILE             ICON    DISCARDABLE     "res\\File.ico"
+IDI_ICON_DIALU          ICON    DISCARDABLE     "res\\explorer.ico"
+IDI_ICOINFO_PROCESS     ICON    DISCARDABLE     "res\\Process.ico"
+IDI_ICOINFO_APPWIN      ICON    DISCARDABLE     "res\\AppWindows.ico"
+IDI_USERNAME            ICON    DISCARDABLE     "res\\icos\\6-UserName.ico"
+IDI_TIME                ICON    DISCARDABLE     "res\\icos\\7-Active.ico"
+IDI_OS                  ICON    DISCARDABLE     "res\\icos\\2-os.ico"
+IDI_MEMORY              ICON    DISCARDABLE     "res\\icos\\4-Memory.ico"
+IDI_IPS                 ICON    DISCARDABLE     "res\\icos\\1-IP.ico"
+IDI_DOUBLE              ICON    DISCARDABLE     "res\\icos\\10-Double.ico"
+IDI_DISK                ICON    DISCARDABLE     "res\\icos\\5-disk.ico"
+IDI_CPU                 ICON    DISCARDABLE     "res\\icos\\3-CPU.ico"
+IDI_ANTI                ICON    DISCARDABLE     "res\\icos\\8-Anti.ico"
+IDI_ICON9               ICON    DISCARDABLE     "res\\guo\\伊朗.ico"
+IDI_ICON82              ICON    DISCARDABLE     "res\\guo\\4\\乌拉圭.ico"
+IDI_ICON81              ICON    DISCARDABLE     "res\\guo\\4\\乌克兰.ico"
+IDI_ICON80              ICON    DISCARDABLE     "res\\guo\\4\\委内瑞拉.ico"
+IDI_ICON8               ICON    DISCARDABLE     "res\\guo\\亚美尼亚.ico"
+IDI_ICON79              ICON    DISCARDABLE     "res\\guo\\4\\土库曼斯坦.ico"
+IDI_ICON78              ICON    DISCARDABLE     "res\\guo\\4\\土耳其.ico"
+IDI_ICON77              ICON    DISCARDABLE     "res\\guo\\4\\泰国.ico"
+IDI_ICON76              ICON    DISCARDABLE     "res\\guo\\4\\斯洛伐克.ico"
+IDI_ICON75              ICON    DISCARDABLE     "res\\guo\\4\\沙特阿拉伯.ico"
+IDI_ICON74              ICON    DISCARDABLE     "res\\guo\\4\\塞浦路斯.ico"
+IDI_ICON73              ICON    DISCARDABLE     "res\\guo\\4\\瑞士.ico"
+IDI_ICON72              ICON    DISCARDABLE     "res\\guo\\4\\瑞典.ico"
+IDI_ICON71              ICON    DISCARDABLE     "res\\guo\\4\\日本.ico"
+IDI_ICON70              ICON    DISCARDABLE     "res\\guo\\4\\葡萄牙.ico"
+IDI_ICON7               ICON    DISCARDABLE     "res\\guo\\匈牙利.ico"
+IDI_ICON69              ICON    DISCARDABLE     "res\\guo\\4\\挪威.ico"
+IDI_ICON68              ICON    DISCARDABLE     "res\\guo\\4\\南非.ico"
+IDI_ICON67              ICON    DISCARDABLE     "res\\guo\\4\\乌兹别克斯坦.ico"
+IDI_ICON66              ICON    DISCARDABLE     "res\\guo\\3\\摩纳哥.ico"
+IDI_ICON65              ICON    DISCARDABLE     "res\\guo\\3\\缅甸.ico"
+IDI_ICON64              ICON    DISCARDABLE     "res\\guo\\3\\孟加拉.ico"
+IDI_ICON63              ICON    DISCARDABLE     "res\\guo\\3\\美国.ico"
+IDI_ICON62              ICON    DISCARDABLE     "res\\guo\\3\\马来西亚.ico"
+IDI_ICON61              ICON    DISCARDABLE     "res\\guo\\3\\罗马尼亚.ico"
+IDI_ICON60              ICON    DISCARDABLE     "res\\guo\\3\\卢森堡.ico"
+IDI_ICON6               ICON    DISCARDABLE     "res\\guo\\新西兰.ico"
+IDI_ICON59              ICON    DISCARDABLE     "res\\guo\\3\\立陶宛.ico"
+IDI_ICON58              ICON    DISCARDABLE     "res\\guo\\3\\黎巴嫩.ico"
+IDI_ICON57              ICON    DISCARDABLE     "res\\guo\\3\\老挝.ico"
+IDI_ICON56              ICON    DISCARDABLE     "res\\guo\\3\\克罗地亚.ico"
+IDI_ICON55              ICON    DISCARDABLE     "res\\guo\\3\\卡塔尔.ico"
+IDI_ICON54              ICON    DISCARDABLE     "res\\guo\\3\\捷克.ico"
+IDI_ICON53              ICON    DISCARDABLE     "res\\guo\\3\\柬埔寨.ico"
+IDI_ICON52              ICON    DISCARDABLE     "res\\guo\\3\\加拿大.ico"
+IDI_ICON51              ICON    DISCARDABLE     "res\\guo\\3\\墨西哥.ico"
+IDI_ICON50              ICON    DISCARDABLE     "res\\guo\\2\\韩国.ico"
+IDI_ICON5               ICON    DISCARDABLE     "res\\guo\\新加坡.ico"
+IDI_ICON49              ICON    DISCARDABLE     "res\\guo\\2\\哈萨克斯坦.ico"
+IDI_ICON48              ICON    DISCARDABLE     "res\\guo\\2\\古巴.ico"
+IDI_ICON47              ICON    DISCARDABLE     "res\\guo\\2\\格鲁吉亚.ico"
+IDI_ICON46              ICON    DISCARDABLE     "res\\guo\\2\\芬兰.ico"
+IDI_ICON45              ICON    DISCARDABLE     "res\\guo\\2\\斐济.ico"
+IDI_ICON44              ICON    DISCARDABLE     "res\\guo\\2\\菲律宾.ico"
+IDI_ICON43              ICON    DISCARDABLE     "res\\guo\\2\\法国.ico"
+IDI_ICON42              ICON    DISCARDABLE     "res\\guo\\2\\厄瓜多尔.ico"
+IDI_ICON41              ICON    DISCARDABLE     "res\\guo\\2\\俄罗斯.ico"
+IDI_ICON40              ICON    DISCARDABLE     "res\\guo\\2\\德国.ico"
+IDI_ICON4               ICON    DISCARDABLE     "res\\guo\\香港.ico"
+IDI_ICON39              ICON    DISCARDABLE     "res\\guo\\2\\丹麦.ico"
+IDI_ICON38              ICON    DISCARDABLE     "res\\guo\\2\\波兰.ico"
+IDI_ICON37              ICON    DISCARDABLE     "res\\guo\\2\\比利时.ico"
+IDI_ICON36              ICON    DISCARDABLE     "res\\guo\\2\\保加利亚.ico"
+IDI_ICON35              ICON    DISCARDABLE     "res\\guo\\2\\荷兰.ico"
+IDI_ICON34              ICON    DISCARDABLE     "res\\guo\\1\\巴西.ico"
+IDI_ICON33              ICON    DISCARDABLE     "res\\guo\\1\\巴拿马.ico"
+IDI_ICON32              ICON    DISCARDABLE     "res\\guo\\1\\巴勒斯坦.ico"
+IDI_ICON31              ICON    DISCARDABLE     "res\\guo\\1\\澳门.ico"
+IDI_ICON30              ICON    DISCARDABLE     "res\\guo\\1\\澳大利亚.ico"
+IDI_ICON3               ICON    DISCARDABLE     "res\\guo\\希腊.ico"
+IDI_ICON29              ICON    DISCARDABLE     "res\\guo\\1\\奥地利.ico"
+IDI_ICON28              ICON    DISCARDABLE     "res\\guo\\1\\爱沙尼亚.ico"
+IDI_ICON27              ICON    DISCARDABLE     "res\\guo\\1\\爱尔兰.ico"
+IDI_ICON26              ICON    DISCARDABLE     "res\\guo\\1\\埃及.ico"
+IDI_ICON25              ICON    DISCARDABLE     "res\\guo\\1\\阿塞拜疆.ico"
+IDI_ICON24              ICON    DISCARDABLE     "res\\guo\\1\\阿联酋.ico"
+IDI_ICON23              ICON    DISCARDABLE     "res\\guo\\1\\阿根廷.ico"
+IDI_ICON22              ICON    DISCARDABLE     "res\\guo\\1\\阿尔及利亚.ico"
+IDI_ICON21              ICON    DISCARDABLE     "res\\guo\\1\\阿尔巴尼亚.ico"
+IDI_ICON20              ICON    DISCARDABLE     "res\\guo\\1\\icon140.ico"
+IDI_ICON2               ICON    DISCARDABLE     "res\\guo\\西班牙.ico"
+IDI_ICON19              ICON    DISCARDABLE     "res\\guo\\1\\白俄罗斯.ico"
+IDI_ICON18              ICON    DISCARDABLE     "res\\guo\\中非.ico"
+IDI_ICON17              ICON    DISCARDABLE     "res\\guo\\智利.ico"
+IDI_ICON16              ICON    DISCARDABLE     "res\\guo\\越南.ico"
+IDI_ICON15              ICON    DISCARDABLE     "res\\guo\\约旦.ico"
+IDI_ICON14              ICON    DISCARDABLE     "res\\guo\\英国.ico"
+IDI_ICON13              ICON    DISCARDABLE     "res\\guo\\印度尼西亚.ico"
+IDI_ICON12              ICON    DISCARDABLE     "res\\guo\\印度.ico"
+IDI_ICON11              ICON    DISCARDABLE     "res\\guo\\意大利.ico"
+IDI_ICON10              ICON    DISCARDABLE     "res\\guo\\以色列.ico"
+IDI_ICON83              ICON    DISCARDABLE     "res\\guo\\中国.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAINFRAME MENU PRELOAD DISCARDABLE 
+BEGIN
+    POPUP "程序(&C)"
+    BEGIN
+        MENUITEM "退出程序(&E)",                ID_APP_EXIT
+    END
+    POPUP "选项(&O)"
+    BEGIN
+        MENUITEM "系统设置(&S)",                IDM_SETTING
+        MENUITEM "创建客户(&B)",                IDM_BUILD
+    END
+    POPUP "查看(&V)"
+    BEGIN
+        MENUITEM "状态栏(&S)",                  ID_VIEW_STATUS_BAR
+    END
+    POPUP "功能(&P)"
+    BEGIN
+        MENUITEM "No-IP更新(&U)",               IDM_IPUPDATE
+    END
+    MENUITEM "防盗锁(&S)",                  IDC_suoding
+    POPUP "关于(&H)"
+    BEGIN
+        MENUITEM "Star Rat..(&B)",              ID_APP_ABOUT
+    END
+END
+
+IDR_LIST MENU DISCARDABLE 
+BEGIN
+    POPUP "MENU"
+    BEGIN
+        MENUITEM "文件管理(&F)",                IDM_FILEMANAGER
+        MENUITEM "屏幕控制(&C)",                IDM_SCREENSPY
+        MENUITEM "键盘记录(&K)",                IDM_KEYBOARD
+        MENUITEM "远程终端(&T)",                IDM_REMOTESHELL
+        MENUITEM "系统管理(&M)",                IDM_SYSTEM
+        MENUITEM "视频查看(&V)",                IDM_WEBCAM
+        MENUITEM "语音监听(&W)",                IDM_AUDIO_LISTEN
+        MENUITEM "弹窗信息(&X)",                IDM_SHOWMSG
+        MENUITEM "主机管理(&H)",                IDM_SYSINFO
+        MENUITEM SEPARATOR
+        POPUP "更改信息(&G)"
+        BEGIN
+            MENUITEM "更改备注(&R)",                IDM_RENAME_REMARK
+            MENUITEM "更改分组(&Z)",                IDM_CHANGEGROUP
+        END
+        POPUP "会话管理(&S)"
+        BEGIN
+            MENUITEM "注销(&L)",                    IDM_LOGOFF
+            MENUITEM "重启(&R)",                    IDM_REBOOT
+            MENUITEM "关机(&S)",                    IDM_SHUTDOWN
+            MENUITEM SEPARATOR
+            MENUITEM "卸载(&U)",                    IDM_REMOVE
+        END
+        POPUP "其它功能(&O)"
+        BEGIN
+            MENUITEM "下载执行(&D)",                IDM_DOWNEXEC
+            MENUITEM "下载更新(&U)",                IDM_UPDATE_SERVER
+            POPUP "访问网址(&V)"
+            BEGIN
+                MENUITEM "隐藏(&H)",                    IDM_OPEN_URL_HIDE
+                MENUITEM "显示(&S)",                    IDM_OPEN_URL_SHOW
+            END
+            MENUITEM "清除日志(&C)",                IDM_CLEANEVENT
+        END
+        MENUITEM SEPARATOR
+        MENUITEM "选择全部(&A)",                IDM_SELECT_ALL
+        MENUITEM "取消选择(&U)",                IDM_UNSELECT_ALL
+    END
+END
+
+IDR_FILEMANAGER MENU DISCARDABLE 
+BEGIN
+    POPUP "FileManger"
+    BEGIN
+        MENUITEM "传输(&T)",                    IDM_TRANSFER
+        MENUITEM "重命名(&R)",                  IDM_RENAME
+        MENUITEM "删除(&D)",                    IDM_DELETE
+        MENUITEM "新建文件夹(&N)",              IDM_NEWFOLDER
+        MENUITEM SEPARATOR
+        MENUITEM "本地打开(&O)",                IDM_LOCAL_OPEN
+        POPUP "远程打开(&O)"
+        BEGIN
+            MENUITEM "显示运行(&S)",                IDM_REMOTE_OPEN_SHOW
+            MENUITEM "隐藏运行(&H)",                IDM_REMOTE_OPEN_HIDE
+        END
+        MENUITEM SEPARATOR
+        MENUITEM "刷新(&R)",                    IDM_REFRESH
+    END
+END
+
+IDR_LOCAL_VIEW MENU DISCARDABLE 
+BEGIN
+    POPUP "Lview"
+    BEGIN
+        MENUITEM "大图标",                      IDM_LOCAL_BIGICON
+        MENUITEM "小图标",                      IDM_LOCAL_SMALLICON
+        MENUITEM "列表",                        IDM_LOCAL_LIST
+        MENUITEM "详细信息",                    IDM_LOCAL_REPORT
+    END
+END
+
+IDR_REMOTE_VIEW MENU DISCARDABLE 
+BEGIN
+    POPUP "Rview"
+    BEGIN
+        MENUITEM "大图标",                      IDM_REMOTE_BIGICON
+        MENUITEM "小图标",                      IDM_REMOTE_SMALLICON
+        MENUITEM "列表",                        IDM_REMOTE_LIST
+        MENUITEM "详细信息",                    IDM_REMOTE_REPORT
+    END
+END
+
+IDR_PSLIST MENU DISCARDABLE 
+BEGIN
+    POPUP "PSLIST"
+    BEGIN
+        MENUITEM "结束(&T)",                    IDM_KILLPROCESS
+        MENUITEM "刷新(&R)",                    IDM_REFRESHPSLIST
+    END
+END
+
+IDR_MINIMIZE MENU DISCARDABLE 
+BEGIN
+    POPUP "MINIMIZE"
+    BEGIN
+        MENUITEM "隐藏",                        IDM_HIDE
+        MENUITEM "显示",                        IDM_SHOW
+        MENUITEM "退出",                        IDM_EXIT
+    END
+END
+
+IDR_ADSL_COPY MENU DISCARDABLE 
+BEGIN
+    POPUP "ADSLCOPY"
+    BEGIN
+        MENUITEM "复制(&C)",                    IDM_ADSL_SAVE
+        MENUITEM "刷新(&R)",                    IDM_REFRESHPSLIST
+    END
+END
+
+IDR_WLIST MENU DISCARDABLE 
+BEGIN
+    POPUP "WLIST"
+    BEGIN
+        MENUITEM "刷新数据(&R)",                IDM_REFRESHPSLIST
+        MENUITEM SEPARATOR
+        MENUITEM "断开连接(&U)",                IDM_DISCONNECT_USER
+        MENUITEM "注销用户(&L)",                IDM_LOGOFF_USER
+        MENUITEM SEPARATOR
+        MENUITEM "复制数据(&C)",                IDM_COPY
+    END
+END
+
+IDR_SLIST MENU DISCARDABLE 
+BEGIN
+    POPUP "SLIST"
+    BEGIN
+        MENUITEM "刷新数据(&R)",                IDM_REFRESHPSLIST
+        MENUITEM SEPARATOR
+        MENUITEM "启动用户(&A)",                IDM_ACTIVE_USER
+        MENUITEM "禁用用户(&E)",                IDM_DISABLEUSER
+        MENUITEM SEPARATOR
+        MENUITEM "修改密码(&P)",                IDM_CHANGEPASSWORD
+        MENUITEM "删除用户(&D)",                IDM_DELUSER
+        MENUITEM SEPARATOR
+        MENUITEM "复制数据(&C)",                IDM_COPY
+    END
+END
+
+IDR_ILIST MENU DISCARDABLE 
+BEGIN
+    POPUP "ILIST"
+    BEGIN
+        MENUITEM "刷新数据(&R)",                IDM_REFRESHPSLIST
+        MENUITEM "复制数据(&C)",                IDM_COPY
+    END
+END
+
+IDR_LOG MENU DISCARDABLE 
+BEGIN
+    POPUP "LOGLIST"
+    BEGIN
+        MENUITEM "复制选中",                    IDM_EVENT_COPY
+        MENUITEM "删除选中",                    IDM_EVENT_DELETE
+        MENUITEM "保存选中",                    IDM_EVENT_SAVE
+        MENUITEM "清除全部",                    IDM_ALL_DELETE
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_TRANSFERMODE_DLG DIALOG DISCARDABLE  0, 0, 371, 75
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "确认文件替换"
+FONT 9, "宋体"
+BEGIN
+    GROUPBOX        "",IDC_CHUANSHU,6,2,359,66
+    LTEXT           "Tips",IDC_TIPS,13,13,342,23
+    PUSHBUTTON      "覆盖",IDC_OVERWRITE,12,42,43,14
+    PUSHBUTTON      "继传",IDC_ADDITION,113,42,43,14
+    PUSHBUTTON      "跳过",IDC_JUMP,218,42,43,14
+    PUSHBUTTON      "全部覆盖",IDC_OVERWRITE_ALL,63,42,43,14
+    PUSHBUTTON      "全部继传",IDC_ADDITION_ALL,166,42,43,14
+    PUSHBUTTON      "全部跳过",IDC_JUMP_ALL,267,42,43,14
+    PUSHBUTTON      "取消",IDC_CANCEL,316,42,43,14
+END
+
+IDD_WEBCAM DIALOG DISCARDABLE  0, 0, 176, 144
+STYLE WS_MINIMIZEBOX | WS_MAXIMIZEBOX | WS_POPUP | WS_CAPTION | WS_SYSMENU | 
+    WS_THICKFRAME
+CAPTION "Dialog"
+FONT 9, "@宋体"
+BEGIN
+END
+
+IDD_SYSTEM DIALOG DISCARDABLE  0, 0, 274, 259
+STYLE WS_MINIMIZEBOX | WS_MAXIMIZEBOX | WS_POPUP | WS_CAPTION | WS_SYSMENU | 
+    WS_THICKFRAME
+CAPTION "系统管理"
+FONT 9, "宋体"
+BEGIN
+    CONTROL         "List1",IDC_LIST_PROCESS,"SysListView32",LVS_REPORT | 
+                    WS_BORDER | WS_TABSTOP,0,19,273,240
+    CONTROL         "Tab1",IDC_TAB,"SysTabControl32",TCS_HOTTRACK | 
+                    TCS_BUTTONS,0,2,267,13
+    CONTROL         "List1",IDC_LIST_WINDOWS,"SysListView32",LVS_REPORT | 
+                    WS_BORDER | WS_TABSTOP,0,19,273,240
+    CONTROL         "List1",IDC_LIST_DIALUPASS,"SysListView32",LVS_REPORT | 
+                    WS_BORDER | WS_TABSTOP,0,19,273,240
+END
+
+IDD_SHELL DIALOG DISCARDABLE  0, 0, 439, 270
+STYLE WS_MINIMIZEBOX | WS_MAXIMIZEBOX | WS_POPUP | WS_CAPTION | WS_SYSMENU | 
+    WS_THICKFRAME
+FONT 9, "宋体"
+BEGIN
+    EDITTEXT        IDC_EDIT,0,0,438,269,ES_MULTILINE | ES_AUTOVSCROLL | 
+                    ES_AUTOHSCROLL | ES_WANTRETURN | WS_VSCROLL | WS_HSCROLL
+END
+
+IDD_SCREENSPY DIALOG DISCARDABLE  0, 0, 510, 329
+STYLE WS_MINIMIZEBOX | WS_MAXIMIZEBOX | WS_POPUP | WS_CAPTION | WS_SYSMENU | 
+    WS_THICKFRAME
+CAPTION "Dialog"
+FONT 9, "宋体"
+BEGIN
+END
+
+IDD_MSGBOX DIALOG DISCARDABLE  0, 0, 228, 225
+STYLE DS_MODALFRAME | WS_MINIMIZEBOX | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "消息对话"
+FONT 9, "宋体"
+BEGIN
+    CONTROL         "",IDC_RADIO1,"Button",BS_AUTORADIOBUTTON,10,22,16,8
+    CONTROL         "",IDC_RADIO2,"Button",BS_AUTORADIOBUTTON,63,22,16,8
+    CONTROL         "",IDC_RADIO3,"Button",BS_AUTORADIOBUTTON,116,22,16,8
+    CONTROL         "",IDC_RADIO4,"Button",BS_AUTORADIOBUTTON,171,22,16,8
+    CONTROL         "确定",IDC_RADIO12,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,6,64,32,10
+    CONTROL         "帮助",IDC_RADIO10,"Button",BS_AUTORADIOBUTTON,46,64,32,
+                    10
+    CONTROL         "是|否|取消",IDC_RADIO13,"Button",BS_AUTORADIOBUTTON,83,
+                    80,56,10
+    CONTROL         "是|否",IDC_RADIO7,"Button",BS_AUTORADIOBUTTON,83,64,32,
+                    10
+    CONTROL         "取消|重试|继续",IDC_RADIO11,"Button",BS_AUTORADIOBUTTON,
+                    6,80,72,10
+    CONTROL         "确定|取消",IDC_RADIO5,"Button",BS_AUTORADIOBUTTON,148,
+                    64,52,10
+    CONTROL         "关于|重试|忽略",IDC_RADIO8,"Button",BS_AUTORADIOBUTTON,
+                    148,80,72,10
+    GROUPBOX        "图标",IDC_STATIC,3,4,223,40
+    ICON            "",IDC_STATIC_ICON1,29,14,20,20,SS_NOTIFY
+    ICON            "",IDC_STATIC_ICON2,82,15,20,20,SS_NOTIFY
+    ICON            "",IDC_STATIC_ICON3,135,15,20,20,SS_NOTIFY
+    ICON            "",IDC_STATIC_ICON4,190,15,20,20,SS_NOTIFY
+    GROUPBOX        "按钮",IDC_STATIC,3,50,223,48
+    GROUPBOX        "文本",IDC_STATIC,3,105,223,95
+    LTEXT           "标题:",IDC_STATIC,7,120,21,8
+    LTEXT           "内容:",IDC_STATIC,7,140,21,8
+    EDITTEXT        IDC_EDIT_TITLE,30,115,190,15,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_TEXT,30,135,190,60,ES_MULTILINE | ES_WANTRETURN | 
+                    WS_VSCROLL
+    PUSHBUTTON      "预览",IDC_SHOW,93,205,50,15
+    PUSHBUTTON      "发送",IDC_SEND,153,205,50,15
+END
+
+IDD_KEYBOARD DIALOG DISCARDABLE  0, 0, 328, 255
+STYLE WS_MINIMIZEBOX | WS_MAXIMIZEBOX | WS_POPUP | WS_CAPTION | WS_SYSMENU | 
+    WS_THICKFRAME
+CAPTION "键盘记录"
+FONT 9, "宋体"
+BEGIN
+    EDITTEXT        IDC_EDIT,0,0,327,255,ES_MULTILINE | ES_AUTOVSCROLL | 
+                    ES_READONLY | ES_WANTRETURN | WS_VSCROLL
+END
+
+IDD_FILE DIALOGEX 0, 0, 358, 275
+STYLE WS_MINIMIZEBOX | WS_MAXIMIZEBOX | WS_POPUP | WS_CAPTION | WS_SYSMENU | 
+    WS_THICKFRAME
+CAPTION "文件管理"
+FONT 9, "宋体", 0, 0, 0x1
+BEGIN
+    COMBOBOX        IDC_LOCAL_PATH,35,5,140,44,CBS_DROPDOWN | 
+                    CBS_AUTOHSCROLL | CBS_SORT | WS_VSCROLL | WS_TABSTOP
+    CONTROL         "List1",IDC_LIST_LOCAL,"SysListView32",LVS_REPORT | 
+                    LVS_SHAREIMAGELISTS | LVS_AUTOARRANGE | LVS_EDITLABELS | 
+                    WS_BORDER | WS_TABSTOP,0,24,357,106,WS_EX_ACCEPTFILES
+    COMBOBOX        IDC_REMOTE_PATH,35,136,140,58,CBS_DROPDOWN | 
+                    CBS_AUTOHSCROLL | CBS_SORT | WS_VSCROLL | WS_TABSTOP
+    CONTROL         "List1",IDC_LIST_REMOTE,"SysListView32",LVS_REPORT | 
+                    LVS_SHOWSELALWAYS | LVS_SHAREIMAGELISTS | 
+                    LVS_AUTOARRANGE | LVS_EDITLABELS | WS_BORDER | 
+                    WS_TABSTOP,0,155,357,106
+    LTEXT           "本地",IDC_STATIC,13,7,17,8
+    LTEXT           "远程",IDC_STATIC_REMOTE,13,138,17,8
+END
+
+IDD_CHANGE_GROUP DIALOG DISCARDABLE  0, 0, 154, 45
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "更改分组"
+FONT 9, "宋体"
+BEGIN
+    PUSHBUTTON      "确定",IDOK,21,24,50,14
+    PUSHBUTTON      "取消",IDCANCEL,81,24,50,14
+    COMBOBOX        IDC_COMBO_GROUP,54,7,93,155,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "分组名称：",IDC_STATIC,7,10,42,8
+END
+
+IDD_AUDIO DIALOG DISCARDABLE  0, 0, 225, 67
+STYLE DS_MODALFRAME | WS_MINIMIZEBOX | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "语音监听"
+FONT 9, "宋体"
+BEGIN
+    GROUPBOX        "",IDC_AUDIO,6,2,213,59
+    CONTROL         "发送本地语音到远程",IDC_SEND_LOCALAUDIO,"Button",
+                    BS_AUTOCHECKBOX,12,41,88,10
+    LTEXT           "正在监听远程声音 ......",IDC_STATIC,12,15,111,8
+    LTEXT           "Microsoft GSM 6.10 Audio CODEC",IDC_STATIC,12,28,120,8
+    LTEXT           "Receive 0 KBytes",IDC_TIPS,135,28,80,8
+END
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 208, 113
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "关于Star Rat 1.3"
+FONT 9, "宋体"
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,31,19,21,21
+    LTEXT           "版权所有 (C) 2012",IDC_STATIC,71,34,75,8
+    DEFPUSHBUTTON   "确定",IDOK,75,92,50,14,WS_GROUP
+    LTEXT           "完美兼容Windows7 Vista Xp 2000 2003 2008",IDC_STATIC,24,
+                    54,168,13
+    LTEXT           "欢迎测试反馈Bug",IDC_STATIC,72,73,61,8
+END
+
+IDD_SETTING DIALOG DISCARDABLE  0, 0, 164, 100
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "系统设置"
+FONT 9, "宋体"
+BEGIN
+    GROUPBOX        "系统配置",IDC_SETTINGS,7,6,151,53
+    PUSHBUTTON      "应用",IDC_APPLY,107,38,41,14
+    LTEXT           "监听端口",IDC_SETTINGS,15,42,33,8
+    EDITTEXT        IDC_LISTEN_PORT,60,39,43,13,ES_CENTER | ES_AUTOHSCROLL | 
+                    ES_NUMBER
+    LTEXT           "连接上限",IDC_SETTINGS,15,22,33,8
+    EDITTEXT        IDC_CONNECT_MAX,60,19,43,13,ES_CENTER | ES_AUTOHSCROLL | 
+                    ES_NUMBER
+    CONTROL         "无限制",IDC_CONNECT_AUTO,"Button",BS_AUTOCHECKBOX | 
+                    BS_FLAT | WS_TABSTOP,107,20,35,10
+    CONTROL         "禁用上线时气泡",IDC_DISABLE_POPTIPS,"Button",
+                    BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,7,69,73,10
+    LTEXT           "",IDC_SHOWTIPS,7,84,151,11
+    CONTROL         "禁用语音提示",IDC_DISABLE_SOUND,"Button",
+                    BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,94,69,64,10
+END
+
+IDD_BUILD DIALOG DISCARDABLE  0, 0, 238, 303
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "创建客户端"
+FONT 9, "宋体"
+BEGIN
+    PUSHBUTTON      "退出窗体",IDCANCEL,127,254,42,20
+    GROUPBOX        "通信连接相关配置",IDC_STATIC,7,7,224,39
+    LTEXT           "域名/IP:",IDC_STATIC,16,27,33,8
+    EDITTEXT        IDC_DNS,53,23,91,14,ES_AUTOHSCROLL
+    LTEXT           "端口:",IDC_STATIC,154,27,21,8
+    EDITTEXT        IDC_PORT,180,23,40,14,ES_AUTOHSCROLL
+    GROUPBOX        "安装信息",IDC_STATIC,7,159,223,64
+    LTEXT           "上线分组:",IDC_STATIC,7,176,37,8
+    COMBOBOX        IDC_ONLINE_GROUP,47,174,73,71,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "版本信息:",IDC_STATIC,127,176,37,8
+    EDITTEXT        IDC_VERSION,167,174,55,14,ES_AUTOHSCROLL | WS_DISABLED
+    CONTROL         "绿色运行(重启不上线)",IDC_GREEN,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,117,133,96,10
+    PUSHBUTTON      "生成客户",IDC_BUILD,34,253,42,19
+    COMBOBOX        IDC_INSTALL_WAY,17,131,89,52,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "服务名称:",IDC_STATIC,16,65,37,8
+    LTEXT           "服务显示:",IDC_STATIC,16,79,36,8
+    LTEXT           "服务描述:",IDC_STATIC,16,94,37,8
+    EDITTEXT        IDC_EDIT_SVCNAME,53,60,102,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_SCNAME,53,76,137,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_SHELP,53,92,170,14,ES_AUTOHSCROLL
+    GROUPBOX        "安装方式",IDC_STATIC,7,115,224,39
+    GROUPBOX        "服务配置信息",IDC_STATIC,7,51,224,59
+    EDITTEXT        IDC_BIAOZHI,10,197,214,14,ES_AUTOHSCROLL | ES_READONLY | 
+                    WS_DISABLED
+END
+
+IDD_SYSINFO DIALOG DISCARDABLE  0, 0, 433, 219
+STYLE DS_MODALFRAME | WS_MINIMIZEBOX | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "服务器信息"
+FONT 9, "宋体"
+BEGIN
+    CONTROL         "List1",IDC_INFO_LIST,"SysListView32",LVS_REPORT | 
+                    WS_BORDER | WS_TABSTOP,6,19,205,130
+    GROUPBOX        "无NET添加用户",IDC_ZITI,318,6,109,131
+    EDITTEXT        IDC_USER,351,22,67,13,ES_AUTOHSCROLL
+    EDITTEXT        IDC_PASS,351,41,67,13,ES_AUTOHSCROLL
+    EDITTEXT        IDC_ADMIN,351,60,67,13,ES_AUTOHSCROLL
+    PUSHBUTTON      "创建账号",IDC_CREAT,334,81,72,20
+    PUSHBUTTON      "关闭防火墙",IDC_STOP_FIRE,231,60,70,13
+    GROUPBOX        "开启、修改远程端口",IDC_ZITIA,223,6,85,131
+    EDITTEXT        IDC_PORT,231,22,70,13,ES_AUTOHSCROLL
+    PUSHBUTTON      "修改终端",IDC_CHANGE,231,41,70,13
+    PUSHBUTTON      "启用GUEST",IDC_GUEST,334,108,72,20
+    EDITTEXT        IDC_ADDR,290,169,82,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "连接",IDC_CONNECT,316,189,36,13
+    GROUPBOX        "远程连接",IDC_ZITIA,248,154,179,59
+    LTEXT           "用户:",IDC_ZITIA,326,24,21,8
+    LTEXT           "密码:",IDC_ZITIA,326,44,21,8
+    LTEXT           "组:",IDC_ZITIA,327,63,13,8
+    LTEXT           "IP:端口",IDC_ZITIA,256,171,29,8
+    LTEXT           "代理端口:",IDC_ZITIA,13,170,40,8
+    EDITTEXT        IDC_PROXY_PORT,56,168,38,13,ES_AUTOHSCROLL | ES_NUMBER
+    CONTROL         "启用代理用户/密码",IDC_SOCKS5,"Button",BS_AUTOCHECKBOX | 
+                    BS_FLAT | WS_TABSTOP,100,169,82,11
+    EDITTEXT        IDC_PROXY_USER,50,189,46,13,ES_AUTOHSCROLL | WS_DISABLED
+    EDITTEXT        IDC_PROXY_PASS,136,189,46,13,ES_PASSWORD | 
+                    ES_AUTOHSCROLL | WS_DISABLED
+    LTEXT           "用户名:",IDC_ZITIA,13,191,29,8
+    LTEXT           "密码:",IDC_ZITIA,108,191,28,8
+    PUSHBUTTON      "开启",ID_PROXY,190,174,41,26
+    GROUPBOX        "开启代理",IDC_ZITIA,6,154,234,59
+    EDITTEXT        IDC_REMOTE_PORT,377,169,40,13,ES_AUTOHSCROLL
+    PUSHBUTTON      "开启3389",IDC_OPEN3389,231,79,70,13
+    PUSHBUTTON      "关闭3389",IDC_CLOSE3389,231,98,70,13
+    CONTROL         "Progress1",IDC_PROGRESS_3389,"msctls_progress32",
+                    WS_BORDER,231,119,70,9
+    CONTROL         "突破限制",IDC_FORCE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,256,191,48,10
+    PUSHBUTTON      "内网",IDC_LAN_CONNECT,369,189,34,13
+    CONTROL         "Tab1",IDC_SYSTEM_TAB,"SysTabControl32",0x0,6,6,198,14
+    CONTROL         "List1",IDC_LIST_SEV,"SysListView32",LVS_REPORT | 
+                    WS_BORDER | WS_TABSTOP,6,19,205,130
+    CONTROL         "List1",IDC_LIST_WTS,"SysListView32",LVS_REPORT | 
+                    WS_BORDER | WS_TABSTOP,6,19,205,130
+    CONTROL         "List1",IDC_ONLINE_INFO_LIST,"SysListView32",LVS_REPORT | 
+                    WS_BORDER | WS_TABSTOP,6,19,205,130
+END
+
+IDD_UPDATE_DLG DIALOG DISCARDABLE  0, 0, 225, 121
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "IP Update"
+FONT 9, "宋体"
+BEGIN
+    GROUPBOX        "No-IP 动态域名",IDC_STATIC,6,6,212,109
+    LTEXT           "用户名:",IDC_STATIC,17,22,35,10
+    EDITTEXT        IDC_EDIT_DNSUSER,54,18,150,12,ES_AUTOHSCROLL
+    LTEXT           "密  码:",IDC_STATIC,17,34,33,8
+    EDITTEXT        IDC_EDIT_DNSPASS,54,32,150,12,ES_PASSWORD | 
+                    ES_AUTOHSCROLL
+    CONTROL         "",IDC_STATIC,"Static",SS_BLACKFRAME | SS_SUNKEN,13,62,
+                    200,1
+    LTEXT           "域  名:",IDC_STATIC,17,48,29,8
+    EDITTEXT        IDC_EDIT_DNSDOMAIN,54,46,150,12,ES_AUTOHSCROLL
+    LTEXT           "外网IP:",IDC_STATIC,17,67,31,10
+    COMBOBOX        IDC_COMBO_DNSIP,54,65,89,64,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    DEFPUSHBUTTON   ">>   更新   <<",IDC_BTN_DNSUPDATE,17,82,185,14
+    LTEXT           "注册 No-IP 动态域名",IDC_SIGNNOIP,136,101,78,10
+    LTEXT           "",IDC_SHOWTIPS,17,102,113,8
+    PUSHBUTTON      "获取外网IP",IDC_GETWAN,152,66,50,12
+END
+
+IDD_LOCK_DIALOG DIALOG DISCARDABLE  0, 0, 187, 97
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION
+CAPTION "黑服务器防盗锁   版本:【土豪金】"
+FONT 10, "黑体"
+BEGIN
+    DEFPUSHBUTTON   "锁定",ID_SETLOCK,122,13,50,14,BS_FLAT
+    PUSHBUTTON      "退出",ID_QUIT,122,64,50,14,BS_FLAT
+    LTEXT           "锁定密码:",IDC_STATIC,9,16,37,9
+    LTEXT           "确认密码:",IDC_STATIC,9,42,37,9
+    LTEXT           "解锁密码:",IDC_STATIC,9,67,37,9
+    EDITTEXT        IDC_SET,49,13,59,14,ES_CENTER | ES_PASSWORD | 
+                    ES_AUTOHSCROLL
+    EDITTEXT        IDC_SETAGAIN,49,39,59,14,ES_CENTER | ES_PASSWORD | 
+                    ES_AUTOHSCROLL
+    EDITTEXT        IDC_UNLOCK,49,64,59,14,ES_CENTER | ES_PASSWORD | 
+                    ES_AUTOHSCROLL
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_TRANSFERMODE_DLG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 364
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 67
+    END
+
+    IDD_WEBCAM, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 169
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 137
+    END
+
+    IDD_SYSTEM, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 267
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 252
+    END
+
+    IDD_SHELL, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 432
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 263
+    END
+
+    IDD_SCREENSPY, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 503
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 322
+    END
+
+    IDD_MSGBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 221
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 218
+    END
+
+    IDD_KEYBOARD, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 321
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 248
+    END
+
+    IDD_FILE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 351
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 268
+    END
+
+    IDD_CHANGE_GROUP, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 147
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 38
+    END
+
+    IDD_AUDIO, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 218
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 60
+    END
+
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 201
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 106
+    END
+
+    IDD_SETTING, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 158
+        TOPMARGIN, 6
+        BOTTOMMARGIN, 93
+        HORZGUIDE, 79
+    END
+
+    IDD_BUILD, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 231
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 296
+    END
+
+    IDD_SYSINFO, DIALOG
+    BEGIN
+        LEFTMARGIN, 6
+        RIGHTMARGIN, 427
+        VERTGUIDE, 6
+        VERTGUIDE, 211
+        VERTGUIDE, 427
+        TOPMARGIN, 6
+        BOTTOMMARGIN, 212
+        HORZGUIDE, 20
+        HORZGUIDE, 149
+        HORZGUIDE, 213
+    END
+
+    IDD_UPDATE_DLG, DIALOG
+    BEGIN
+        LEFTMARGIN, 6
+        RIGHTMARGIN, 219
+        TOPMARGIN, 6
+        BOTTOMMARGIN, 115
+    END
+
+    IDD_LOCK_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 180
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 90
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Cursor
+//
+
+IDC_DRAG                CURSOR  DISCARDABLE     "res\\1.cur"
+IDC_MUTI_DRAG           CURSOR  DISCARDABLE     "res\\2.cur"
+IDC_CURSOR3             CURSOR  DISCARDABLE     "res\\3.cur"
+IDC_CURSOR4             CURSOR  DISCARDABLE     "res\\4.cur"
+IDC_DOT                 CURSOR  DISCARDABLE     "res\\dot.cur"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Toolbar
+//
+
+IDR_TOOLBAR1 TOOLBAR DISCARDABLE  24, 24
+BEGIN
+    BUTTON      IDT_LOCAL_PREV
+    SEPARATOR
+    BUTTON      IDT_LOCAL_COPY
+    BUTTON      IDT_LOCAL_DELETE
+    BUTTON      IDT_LOCAL_NEWFOLDER
+    SEPARATOR
+    BUTTON      IDT_LOCAL_VIEW
+    BUTTON      IDT_LOCAL_STOP
+END
+
+IDR_TOOLBAR2 TOOLBAR DISCARDABLE  24, 24
+BEGIN
+    BUTTON      IDT_REMOTE_PREV
+    SEPARATOR
+    BUTTON      IDT_REMOTE_COPY
+    BUTTON      IDT_REMOTE_DELETE
+    BUTTON      IDT_REMOTE_NEWFOLDER
+    SEPARATOR
+    BUTTON      IDT_REMOTE_VIEW
+    BUTTON      IDT_REMOTE_STOP
+END
+
+IDR_TOOLBAR4 TOOLBAR DISCARDABLE  32, 32
+BEGIN
+    BUTTON      IDM_FILEMANAGER
+    BUTTON      IDM_KEYBOARD
+    BUTTON      IDM_SCREENSPY
+    BUTTON      IDM_SYSTEM
+    BUTTON      IDM_WEBCAM
+    BUTTON      IDM_AUDIO_LISTEN
+    BUTTON      IDM_REMOTESHELL
+    BUTTON      IDM_SYSINFO
+    BUTTON      IDM_SHOWMSG
+    SEPARATOR
+    BUTTON      IDM_DDOS
+    BUTTON      IDM_SETTING
+    BUTTON      IDM_BUILD
+    SEPARATOR
+    BUTTON      IDM_EXIT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDR_TOOLBAR1            BITMAP  DISCARDABLE     "res\\toolbar1.bmp"
+IDB_TOOLBAR_ENABLE      BITMAP  DISCARDABLE     "res\\Bitmap_4.bmp"
+IDR_TOOLBAR2            BITMAP  DISCARDABLE     "res\\toolbar2.bmp"
+IDB_TOOLBAR_DISABLE     BITMAP  DISCARDABLE     "res\\Bitmap_5.bmp"
+IDB_SPLASH              BITMAP  DISCARDABLE     "res\\Splash.bmp"
+IDR_TOOLBAR4            BITMAP  DISCARDABLE     "res\\toolbar4.bmp"
+IDB_BARNEW              BITMAP  DISCARDABLE     "res\\barnew.bmp"
+IDB_MENU                BITMAP  DISCARDABLE     "res\\ddd.bmp"
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404b0"
+        BEGIN
+            VALUE "Comments", "\0"
+            VALUE "CompanyName", "QQ:981397\0"
+            VALUE "FileDescription", "土豪金专版\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "QQ:981397\0"
+            VALUE "LegalCopyright", "版权所有(C) 2014\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "土豪金.exe\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "QQ：981397\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// 24
+//
+
+1                       24      DISCARDABLE     "res\\xp.xml"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_BUILD DLGINIT
+BEGIN
+    IDC_INSTALL_WAY, 0x403, 9, 0
+0xfeb7, 0xf1ce, 0xf4c6, 0xafb6, "\000" 
+    IDC_INSTALL_WAY, 0x403, 13, 0
+0xa2d7, 0xe1b2, 0xedb1, 0xf4c6, 0xafb6, 0xeecf, "\000" 
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// SKIN
+//
+
+IDR_SKIN                SKIN    DISCARDABLE     "res\\guo\\aero.she"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_VIEW_STATUS_BAR      "显示或隐藏状态栏\n显隐状态栏"
+    ID_STAUTSTIP            "程序初始化成功"
+    ID_STAUTSCOUNT          "Online: 0"
+    ID_OS                   "主机统计:NT:0\t2k:0\tXP:0\t2k3:0\tVista:0\t2k8:0\tW7:0\tW8:0\t2k12:0"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDM_FILEMANAGER         "\n文件管理"
+    IDT_LOCAL_PREV          "\n返回上级目录"
+    IDT_LOCAL_COPY          "\n拷贝目录到另外的计算机"
+    IDT_LOCAL_DELETE        "\n删除文件或目录"
+    IDT_LOCAL_VIEW          "\n选择图标模式"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDT_LOCAL_NEWFOLDER     "\n新建文件"
+    IDT_LOCAL_STOP          "\n停止当前操作"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_INDICATOR_CAPS       "CAP"
+    ID_INDICATOR_NUM        "NUM"
+    ID_INDICATOR_SCRL       "SCRL"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDM_SCREENSPY           "\n屏幕控制"
+    IDM_WEBCAM              "\n视频查看"
+    IDM_KEYBOARD            "\n键盘记录"
+    IDM_SYSTEM              "\n系统管理"
+    IDM_REMOTESHELL         "\n远程终端"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDM_AUDIO_LISTEN        "\n语音监听"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDM_SETTING             "\n系统设置"
+    IDM_BUILD               "\n创建客户"
+    IDM_SHOWMSG             "\n弹窗消息"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDM_SYSINFO             "\n主机管理"
+    IDM_DDOS                "\n压力测试"
+    IDM_IPUPDATE            "\n域名更新"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDM_EXIT                "\n退出程序"
+END
+
+#endif    // Chinese (中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE 4, 2
+#pragma code_page(936)
+#endif //_WIN32
+#include "res\Client.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.chs\afxres.rc"          // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

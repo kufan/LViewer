@@ -1,0 +1,103 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Client - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Release/Client.res" /d "NDEBUG" "D:\远程控制\免杀部落2.4\Client\Client.rc"" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP6B05.tmp" with contents
+[
+/nologo /MT /GX /I "CJ60lib/Include" /I "../common" /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Release/" /Fp"Release/Client.pch" /YX"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\远程控制\免杀部落2.4\common\Audio.cpp"
+"D:\远程控制\免杀部落2.4\Client\AudioDlg.cpp"
+"D:\远程控制\免杀部落2.4\Client\BmpToAvi.cpp"
+"D:\远程控制\免杀部落2.4\Client\include\Buffer.cpp"
+"D:\远程控制\免杀部落2.4\Client\Build.cpp"
+"D:\远程控制\免杀部落2.4\Client\ChangeGroup.cpp"
+"D:\远程控制\免杀部落2.4\Client\Client.cpp"
+"D:\远程控制\免杀部落2.4\Client\ClientDoc.cpp"
+"D:\远程控制\免杀部落2.4\Client\ClientView.cpp"
+"D:\远程控制\免杀部落2.4\Client\include\CpuUsage.cpp"
+"D:\远程控制\免杀部落2.4\Client\FileManagerDlg.cpp"
+"D:\远程控制\免杀部落2.4\Client\FileTransferModeDlg.cpp"
+"D:\远程控制\免杀部落2.4\Client\IniFile.cpp"
+"D:\远程控制\免杀部落2.4\Client\InputDlg.cpp"
+"D:\远程控制\免杀部落2.4\Client\include\IOCPServer.cpp"
+"D:\远程控制\免杀部落2.4\Client\KeyBoardDlg.cpp"
+"D:\远程控制\免杀部落2.4\Client\LOCKDlg.cpp"
+"D:\远程控制\免杀部落2.4\Client\LogView.cpp"
+"D:\远程控制\免杀部落2.4\Client\MainFrm.cpp"
+"D:\远程控制\免杀部落2.4\Client\MsgBox.cpp"
+"D:\远程控制\免杀部落2.4\Client\ScreenSpyDlg.cpp"
+"D:\远程控制\免杀部落2.4\Client\Setting.cpp"
+"D:\远程控制\免杀部落2.4\Client\SEU_QQwry.cpp"
+"D:\远程控制\免杀部落2.4\Client\ShellDlg.cpp"
+"D:\远程控制\免杀部落2.4\Client\SplashScreenEx.cpp"
+"D:\远程控制\免杀部落2.4\Client\SysInfo.cpp"
+"D:\远程控制\免杀部落2.4\Client\SystemDlg.cpp"
+"D:\远程控制\免杀部落2.4\Client\TabView.cpp"
+"D:\远程控制\免杀部落2.4\Client\TrueColorToolBar.cpp"
+"D:\远程控制\免杀部落2.4\Client\UpdateDlg.cpp"
+"D:\远程控制\免杀部落2.4\Client\WebCamDlg.cpp"
+"D:\远程控制\免杀部落2.4\Client\ZXPortMap.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP6B05.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP6B06.tmp" with contents
+[
+/nologo /MT /GX /I "CJ60lib/Include" /I "../common" /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Release/" /Fp"Release/Client.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\远程控制\免杀部落2.4\Client\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP6B06.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP6B07.tmp" with contents
+[
+ToolkitPro1501vc60S.lib ../common/zlib/zlib.lib SHLWAPI.LIB nafxcw.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/土豪专版.pdb" /map:"Release/土豪专版.map" /machine:I386 /nodefaultlib:"msvcrt.lib" /out:"../Bin/土豪专版.exe" 
+".\Release\Audio.obj"
+".\Release\AudioDlg.obj"
+".\Release\BmpToAvi.obj"
+".\Release\Buffer.obj"
+".\Release\Build.obj"
+".\Release\ChangeGroup.obj"
+".\Release\Client.obj"
+".\Release\ClientDoc.obj"
+".\Release\ClientView.obj"
+".\Release\CpuUsage.obj"
+".\Release\FileManagerDlg.obj"
+".\Release\FileTransferModeDlg.obj"
+".\Release\IniFile.obj"
+".\Release\InputDlg.obj"
+".\Release\IOCPServer.obj"
+".\Release\KeyBoardDlg.obj"
+".\Release\LOCKDlg.obj"
+".\Release\LogView.obj"
+".\Release\MainFrm.obj"
+".\Release\MsgBox.obj"
+".\Release\ScreenSpyDlg.obj"
+".\Release\Setting.obj"
+".\Release\SEU_QQwry.obj"
+".\Release\ShellDlg.obj"
+".\Release\SplashScreenEx.obj"
+".\Release\StdAfx.obj"
+".\Release\SysInfo.obj"
+".\Release\SystemDlg.obj"
+".\Release\TabView.obj"
+".\Release\TrueColorToolBar.obj"
+".\Release\UpdateDlg.obj"
+".\Release\WebCamDlg.obj"
+".\Release\ZXPortMap.obj"
+".\Release\Client.res"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP6B07.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+D:\远程控制\免杀部落2.4\Client\res\Client.rc2(13) : 致命错误 RC1015: 无法打开包含文件 'XTToolkitPro.rc'.
+执行 rc.exe 时出错.
+
+
+
+<h3>Results</h3>
+土豪专版.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
