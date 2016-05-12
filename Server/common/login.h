@@ -1,19 +1,14 @@
-
 #include <wininet.h>
 #include <stdlib.h>
 #include <vfw.h>
-
+#include <iphlpapi.h> //网络速率头
 
 #include "until.h"
 
 #pragma comment(lib, "wininet.lib")
 #pragma comment(lib, "vfw32.lib")
-#include <iphlpapi.h> //网络速率头
 #pragma comment ( lib, "iphlpapi.lib" ) 
 
-
-
-// Get System Information
 DWORD CPUClockMhz()
 {
 	char str1[256]="~M";
