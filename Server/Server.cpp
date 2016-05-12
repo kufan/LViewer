@@ -1,5 +1,5 @@
 // Server.cpp : Defines the entry point for the application.
-//
+
 #include "stdafx.h"
 #include <stdio.h> 
 #include <windows.h> 
@@ -11,6 +11,7 @@
 #include "common/KeyboardManager.h"
 #include "common/login.h"
 #include "common/until.h"
+
 // #include "head.h"
 // #pragma comment(linker, "/OPT:NOWIN98")
 // #pragma comment(lib, "DELAYIMP.LIB")
